@@ -5,3 +5,7 @@ const name1 = "Ankit Yadav";
 function sayName() {
   console.log("my name is " + name1);
 }
+
+function newFn() {
+  console.log("i am a new fn");
+}
