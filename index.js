@@ -10,3 +10,8 @@ function newFeatureAdd() {
   console.log("this is a new feat");
   console.log("this is a new feat A");
 }
+
+function newFeatureAddB() {
+  console.log("this is a new feat");
+  console.log("this is a new feat B");
+}
